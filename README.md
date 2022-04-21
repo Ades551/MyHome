@@ -1,5 +1,5 @@
 # MyHome
-Basically smart-home application. Server side application is written in python (socket-srever), running on Raspberry Pi which than communicates with Arduino devices via RF-module, that are controlling relays. Client side application is written in Java, compatible with Android devices running Andorid 9 and higher. But good scheme is more than a thousand words.
+MyHome is a smart-home application, that aims to make routine plant-watering easy. Server side application is written in python (socket-srever), running on Raspberry Pi which then communicates with Arduino devices via RF-module, that are controlling relays. Client side application is written in Java, compatible with Android devices running Android 9 and higher. But good scheme is more than a thousand words.
 
 ## Communication scheme
 ![Communication scheme](./img/comm_scheme.png)
