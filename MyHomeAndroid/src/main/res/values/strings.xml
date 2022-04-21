@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Home</string>
+    <string name="menu_option1">Časovanie</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_time">TimeActivity</string>
+
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Strings used for dates -->
+
+    <string name="monday">Pondelok</string>
+    <string name="tuesday">Utorok</string>
+    <string name="wednesday">Streda</string>
+    <string name="thursday">Štvrtok</string>
+    <string name="friday">Piatok</string>
+    <string name="saturday">Sobota</string>
+    <string name="sunday">Nedeľa</string>
+
+    <!-- Custom strings -->
+    <string name="select_all">Vybrať všetky</string>
+    <string name="doba_trvania">Doba trvania v min.</string>
+    <string name="control_activity">Ovládanie závlahy</string>
+    <string name="select_activity">Výber okruhu</string>
+    <string name="time_activity">Časy automatickej závlahy</string>
+    <string name="set_time_activity">Nastavenie času</string>
+    <string name="set_date_activity">Nastavenie dátumu</string>
+    <string name="home_activity">Ovládanie domácnosti</string>
+    <string name="home_activity1">Ovládanie pracovne</string>
+
+</resources>
